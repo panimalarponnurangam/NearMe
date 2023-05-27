@@ -260,8 +260,7 @@ in display.
 ## HTML VALIDATOR
 
 
-![valid](https://github.com/panimalarponnurangam/NearMe/assets/121490826/fb8f1927-227f-48c2-9479-92bcd974873c)
-
+![Screenshot (25)](https://github.com/panimalarponnurangam/NearMe/assets/121490826/fa63c6a9-e930-4039-8a2b-c638c95bc52c)
 
 
 
