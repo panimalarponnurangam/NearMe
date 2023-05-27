@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+~~~
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -39,8 +40,8 @@ map.html
 <area shape="circle" coords="12.921219180618353, 79.12957867008"
 href="/static/html/fort.html" title="Vellore Fort">
 <area shape="rectangle" coords="12.91966838683918, 79.12999929977518"
-1/28/23, 11:27 PM panimalarponnurangam/NearMe
-https://github.com/panimalarponnurangam/NearMe 2/9
+
+
 href="/static/html/museum.html" title="Government Museum">
 <area shape="circle" coords="12.920087280360919, 79.12795101604206"
 href="/static/html/indiamuseum.html" title="India Museum">
@@ -195,8 +196,7 @@ museum.html
 <html lang="en">
 <head>
 <title>Government Museum</title>
-1/28/23, 11:27 PM vishnupriyaramesh17/NearMe
-https://github.com/vishnupriyaramesh17/NearMe 5/9
+
 </head>
 <body bgcolor="yellow">
 <h1 align="center">
@@ -231,6 +231,7 @@ in display.
 </p>
 </body>
 </html>
+~~~
 
 
 ## OUTPUT
@@ -258,7 +259,8 @@ in display.
 
 ## HTML VALIDATOR
 
-![valid](https://github.com/panimalarponnurangam/NearMe/assets/121490826/9e798d7d-1e34-4d0d-81a1-021ddb5354eb)
+
+![valid](https://github.com/panimalarponnurangam/NearMe/assets/121490826/fb8f1927-227f-48c2-9479-92bcd974873c)
 
 
 
