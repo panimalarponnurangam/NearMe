@@ -143,8 +143,7 @@ fortpark.html
 <font color="blue"><b>Vellore Fort Park</b></font>
 </h3>
 <hr size="3" color="red">
-1/28/23, 11:27 PM vishnupriyaramesh17/NearMe
-https://github.com/vishnupriyaramesh17/NearMe 4/9
+
 <p align="justify">
 <font face="Arial" size="5">
 <b>
@@ -260,7 +259,8 @@ in display.
 ## HTML VALIDATOR
 
 
-![Screenshot (25)](https://github.com/panimalarponnurangam/NearMe/assets/121490826/fa63c6a9-e930-4039-8a2b-c638c95bc52c)
+![Screenshot (26)](https://github.com/panimalarponnurangam/NearMe/assets/121490826/fa6cef93-3417-4feb-9f2c-46f50b4a5c58)
+
 
 
 
